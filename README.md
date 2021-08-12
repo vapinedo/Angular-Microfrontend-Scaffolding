@@ -15,10 +15,10 @@ Esto es un proyecto Angular convencional, salvo que se han instalado algunos paq
 
 1. Single SPA, el cual se instala con el siguiente comando:
   
-ng add single-spa-angular
+	```ng add single-spa-angular```
 
-El Anterior comando instalá automaticamente 2 paquetes:
-  1. Single SPA ( Versión ^5.5.0 para este proyecto )
-  2. Single SPA Angular ( Versión ^4.0.1 para este proyecto )
+#### El Anterior comando instalará automaticamente 2 paquetes:
+  + [Single SPA](https://single-spa.js.org/) ( Versión ^5.5.0 para este proyecto )
+  + [Single SPA Angular](https://single-spa.js.org/docs/ecosystem-angular/) ( Versión ^4.0.1 para este proyecto )
 
   
